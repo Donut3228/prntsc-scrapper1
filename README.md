@@ -1,3 +1,3 @@
 # prntsc-scrapper1
 
-    python3 code.py {amount of images}
+    python3 code.py <amount of images>
